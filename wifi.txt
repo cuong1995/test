@@ -1,0 +1,2 @@
+wifi : Wifi Academy
+pass : 82233-27428
